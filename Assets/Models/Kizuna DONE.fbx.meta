@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 66eb921a1ce38b74bb331dd90111934c
+timeCreated: 1546948694
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: A1_L
+    100002: A1_R
+    100004: A2_L
+    100006: A2_R
+    100008: A3_L
+    100010: A3_R
+    100012: A4_L
+    100014: A4_R
+    100016: Armature
+    100018: B1_L
+    100020: B1_R
+    100022: B2_L
+    100024: B2_R
+    100026: B3_L
+    100028: B3_R
+    100030: B4_L
+    100032: B4_R
+    100034: Body
+    100036: C1_L
+    100038: C1_R
+    100040: C2_L
+    100042: C2_R
+    100044: C3_L
+    100046: C3_R
+    100048: C4_L
+    100050: C4_R
+    100052: Chest
+    100054: D1
+    100056: D2
+    100058: D3
+    100060: D4
+    100062: Eye_L
+    100064: Eye_R
+    100066: FrontHair1
+    100068: FrontHair2
+    100070: FrontHair3
+    100072: Head
+    100074: Hips
+    100076: IndexFinger1_L
+    100078: IndexFinger1_R
+    100080: IndexFinger2_L
+    100082: IndexFinger2_R
+    100084: IndexFinger3_L
+    100086: IndexFinger3_R
+    100088: //RootNode
+    100090: Left ankle
+    100092: Left arm
+    100094: Left elbow
+    100096: Left knee
+    100098: Left leg
+    100100: Left shoulder
+    100102: Left wrist
+    100104: LeftEye
+    100106: LittleFinger1_L
+    100108: LittleFinger1_R
+    100110: LittleFinger2_L
+    100112: LittleFinger2_R
+    100114: LittleFinger3_L
+    100116: LittleFinger3_R
+    100118: MiddleFinger1_L
+    100120: MiddleFinger1_R
+    100122: MiddleFinger2_L
+    100124: MiddleFinger2_R
+    100126: MiddleFinger3_L
+    100128: MiddleFinger3_R
+    100130: Mom1_L
+    100132: Mom2_L
+    100134: Mom3_L
+    100136: Momi1_R
+    100138: Momi2_R
+    100140: Momi3_R
+    100142: Neck
+    100144: Ribbon1
+    100146: Ribbon2
+    100148: Right ankle
+    100150: Right arm
+    100152: Right elbow
+    100154: Right knee
+    100156: Right leg
+    100158: Right shoulder
+    100160: Right wrist
+    100162: RightEye
+    100164: RingFinger1_L
+    100166: RingFinger1_R
+    100168: RingFinger2_L
+    100170: RingFinger2_R
+    100172: RingFinger3_L
+    100174: RingFinger3_R
+    100176: Root_FrontHair1
+    100178: Spine
+    100180: Thumb1_L
+    100182: Thumb1_R
+    100184: Thumb2_L
+    100186: Thumb2_R
+    400000: A1_L
+    400002: A1_R
+    400004: A2_L
+    400006: A2_R
+    400008: A3_L
+    400010: A3_R
+    400012: A4_L
+    400014: A4_R
+    400016: Armature
+    400018: B1_L
+    400020: B1_R
+    400022: B2_L
+    400024: B2_R
+    400026: B3_L
+    400028: B3_R
+    400030: B4_L
+    400032: B4_R
+    400034: Body
+    400036: C1_L
+    400038: C1_R
+    400040: C2_L
+    400042: C2_R
+    400044: C3_L
+    400046: C3_R
+    400048: C4_L
+    400050: C4_R
+    400052: Chest
+    400054: D1
+    400056: D2
+    400058: D3
+    400060: D4
+    400062: Eye_L
+    400064: Eye_R
+    400066: FrontHair1
+    400068: FrontHair2
+    400070: FrontHair3
+    400072: Head
+    400074: Hips
+    400076: IndexFinger1_L
+    400078: IndexFinger1_R
+    400080: IndexFinger2_L
+    400082: IndexFinger2_R
+    400084: IndexFinger3_L
+    400086: IndexFinger3_R
+    400088: //RootNode
+    400090: Left ankle
+    400092: Left arm
+    400094: Left elbow
+    400096: Left knee
+    400098: Left leg
+    400100: Left shoulder
+    400102: Left wrist
+    400104: LeftEye
+    400106: LittleFinger1_L
+    400108: LittleFinger1_R
+    400110: LittleFinger2_L
+    400112: LittleFinger2_R
+    400114: LittleFinger3_L
+    400116: LittleFinger3_R
+    400118: MiddleFinger1_L
+    400120: MiddleFinger1_R
+    400122: MiddleFinger2_L
+    400124: MiddleFinger2_R
+    400126: MiddleFinger3_L
+    400128: MiddleFinger3_R
+    400130: Mom1_L
+    400132: Mom2_L
+    400134: Mom3_L
+    400136: Momi1_R
+    400138: Momi2_R
+    400140: Momi3_R
+    400142: Neck
+    400144: Ribbon1
+    400146: Ribbon2
+    400148: Right ankle
+    400150: Right arm
+    400152: Right elbow
+    400154: Right knee
+    400156: Right leg
+    400158: Right shoulder
+    400160: Right wrist
+    400162: RightEye
+    400164: RingFinger1_L
+    400166: RingFinger1_R
+    400168: RingFinger2_L
+    400170: RingFinger2_R
+    400172: RingFinger3_L
+    400174: RingFinger3_R
+    400176: Root_FrontHair1
+    400178: Spine
+    400180: Thumb1_L
+    400182: Thumb1_R
+    400184: Thumb2_L
+    400186: Thumb2_R
+    2100000: AtlasBakedMat4748488743
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AtlasBakedMat4748488743
+    second: {fileID: 2100000, guid: c4ba2770b5b4df44083645c7b2e7d241, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
